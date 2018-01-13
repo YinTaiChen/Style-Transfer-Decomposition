@@ -11,3 +11,7 @@ Reference 2: [Neural Transfer with PyTorch](http://pytorch.org/tutorials/advance
 ## Style Reconstruction
 
 ![alt text](https://github.com/YinTaiChen/Style-Transfer-Visualization/blob/master/style_reconstruction.gif)
+
+## Style Transfer = Content Reconstruction + Style Reconstruction
+
+![alt text](https://github.com/YinTaiChen/Style-Transfer-Visualization/blob/master/style_transfer.gif)
