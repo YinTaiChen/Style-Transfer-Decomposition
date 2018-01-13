@@ -7,3 +7,7 @@ Reference 2: [Neural Transfer with PyTorch](http://pytorch.org/tutorials/advance
 ## Content Reconstruction
 
 ![alt text](https://github.com/YinTaiChen/Style-Transfer-Visualization/blob/master/content_reconstruction.gif)
+
+## Style Reconstruction
+
+![alt text](https://github.com/YinTaiChen/Style-Transfer-Visualization/blob/master/style_reconstruction.gif)
